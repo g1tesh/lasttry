@@ -7,6 +7,7 @@ public class lasttry {
 		
 		
 		System.out.println("commit1");
+		System.out.println("commit2");
 
 	}
 
